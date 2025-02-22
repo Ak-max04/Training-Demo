@@ -1,2 +1,2 @@
 # Training-Demo
-Demo class on github
+workshop on github
